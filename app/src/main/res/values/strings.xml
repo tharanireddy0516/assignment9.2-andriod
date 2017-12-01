@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ActionBarMenu</string>
+    <string name="video">Video</string>
+    <string name="email">Email</string>
+    <string name="camera">Camera</string>
+    <string name="gamepad">GamePad</string>
+    <string name="computer">Computer</string>
+    <string name="toast_msg">Toast Msg</string>
+</resources>
